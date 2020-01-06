@@ -1,0 +1,9 @@
+{
+	"serialNumber": "1234567890",
+	"name": "name",
+	"ipv4": "1234.5678.90.0",
+	"peripherals": [
+		{"vendor": "vendor1", "uid": "uuid4", "createDate": "20200101", "status": "online"},
+		{"vendor": "vendor2", "uid": "uuid5", "createDate": "20200101", "status": "offline"}
+	]
+}
